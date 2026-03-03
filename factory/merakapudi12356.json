@@ -1,0 +1,9 @@
+{
+	"name": "merakapudi12356",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "790dee24-2af5-4e2a-a550-aea35c8bcb05",
+		"tenantId": "2d1ea684-8b47-41c9-a580-011ccdbb4953"
+	}
+}
